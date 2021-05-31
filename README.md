@@ -13,13 +13,11 @@ flutter run
 
 Live Demo : [Flutter Doctor Booking App Web Demo](http://bit.ly/2uAwmLd)
 
-Try Android APK : [Download From Google Drive](https://drive.google.com/file/d/1spPy6xdQB8U892x31jDz3i7ClQv41P1n/view?usp=sharing)
 
 Dotor Booking App UI made with Flutter, Hosted on Codemagic. Don't forget to star ⭐ the repo it motivates me to share more open source
 
 ### Created & Maintained By
 
-[Sanskar Tiwari](https://github.com/theindianappguy) ([@theindianappguy](https://twitter.com/Theindianappguy)) ([YouTube](https://www.youtube.com/c/SanskarTiwari))
 
 > If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
 >
@@ -31,7 +29,7 @@ Dotor Booking App UI made with Flutter, Hosted on Codemagic. Don't forget to sta
 
 ### License
 
-    Copyright 2020 Sanskar Tiwari
+
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
